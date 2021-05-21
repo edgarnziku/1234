@@ -1,6 +1,5 @@
 <html>
     <head>
-        <title> My personal website </title>
     </head>
     <body style="background-color: rgba(108, 141, 141, 0.623);">
         <p><h2>Introduction</h2><br>
